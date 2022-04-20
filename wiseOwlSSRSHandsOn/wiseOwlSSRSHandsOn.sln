@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "wiseOwlSSRSHandsOn", "wiseOwlSSRSHandsOn\wiseOwlSSRSHandsOn.rptproj", "{EFADB094-20DF-4481-9D1D-5D501A86AEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Debug|Default.ActiveCfg = Debug
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Debug|Default.Build.0 = Debug
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Debug|Default.Deploy.0 = Debug
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.DebugLocal|Default.Build.0 = DebugLocal
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Release|Default.ActiveCfg = Release
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Release|Default.Build.0 = Release
+		{EFADB094-20DF-4481-9D1D-5D501A86AEE4}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {672B8850-52FA-4E18-96B6-68BFC874405A}
+	EndGlobalSection
+EndGlobal
